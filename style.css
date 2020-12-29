@@ -1,9 +1,13 @@
-body{
-  background-color: cadetblue;
+* {
+	box-sizing: border-box;
 }
 
-h1{
-  color: #ffffff; 
-  text-align: center;
-  
+body {
+	background-color: cadetblue;
+}
+
+h1 {
+	color: #ffffff;
+	text-align: center;
+	margin: '0 auto';
 }
